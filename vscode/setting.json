@@ -1,0 +1,62 @@
+
+r.quickSuggestions": null,
+    "git.ignoreMissingGitWarning": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.fontLigatures": null,
+    "settingsSync.ignoredSettings": [],
+    "json.maxItemsComputed": 100000,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "markdownlint.config": {
+        "no-inline-html": false
+    },
+    "markdown.extension.toc.levels": "2..6",
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false
+    },
+    "editor.letterSpacing": -0.3,
+    "editor.lineHeight": 25,
+    "editor.glyphMargin": false,
+    "editor.formatOnSave": true,
+    "editor.cursorSmoothCaretAnimation": true,
+    "explorer.confirmDelete": false,
+    "explorer.openEditors.visible": 0,
+    "editor.fontFamily": "Consolas",
+    "workbench.startupEditor": "none",
+    "terminal.integrated.fontFamily": "'FiraCode Nerd Font', monospace",
+    "terminal.integrated.fontSize": 17,
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "args": [
+                "-NoExit",
+                "-Command",
+                "chcp 65001"
+            ],
+        }
+    },
+    "terminal.explorerKind": "external",
+    "editor.minimap.enabled": false,
+    "editor.matchBrackets": "never",
+    "window.autoDetectHighContrast": false,
+    "editor.fontSize": 20,
+    "editor.mouseWheelZoom": true,
+    "workbench.sideBar.location": "left",
+    "workbench.tips.enabled": false,
+    "workbench.settings.editor": "json",
+    "window.menuBarVisibility": "toggle",
+    "workbench.colorTheme": "Monokai",
+    "workbench.activityBar.visible": false
+}
