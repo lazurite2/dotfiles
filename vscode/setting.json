@@ -1,5 +1,5 @@
-
-r.quickSuggestions": null,
+{
+    "r.quickSuggestions": null,
     "git.ignoreMissingGitWarning": true,
     "workbench.iconTheme": "material-icon-theme",
     "javascript.updateImportsOnFileMove.enabled": "always",
